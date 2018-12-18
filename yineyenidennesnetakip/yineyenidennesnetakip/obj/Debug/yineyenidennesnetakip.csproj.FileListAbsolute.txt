@@ -1,0 +1,42 @@
+C:\Users\pc\Documents\Visual Studio 2017\Projects\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\yineyenidennesnetakip.exe.config
+C:\Users\pc\Documents\Visual Studio 2017\Projects\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\yineyenidennesnetakip.exe
+C:\Users\pc\Documents\Visual Studio 2017\Projects\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\yineyenidennesnetakip.pdb
+C:\Users\pc\Documents\Visual Studio 2017\Projects\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\AForge.dll
+C:\Users\pc\Documents\Visual Studio 2017\Projects\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\AForge.Imaging.dll
+C:\Users\pc\Documents\Visual Studio 2017\Projects\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\pc\Documents\Visual Studio 2017\Projects\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\AForge.Video.dll
+C:\Users\pc\Documents\Visual Studio 2017\Projects\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\AForge.Math.dll
+C:\Users\pc\Documents\Visual Studio 2017\Projects\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\AForge.xml
+C:\Users\pc\Documents\Visual Studio 2017\Projects\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\AForge.Imaging.xml
+C:\Users\pc\Documents\Visual Studio 2017\Projects\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\AForge.Video.xml
+C:\Users\pc\Documents\Visual Studio 2017\Projects\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\pc\Documents\Visual Studio 2017\Projects\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\AForge.Math.xml
+C:\Users\pc\Documents\Visual Studio 2017\Projects\yineyenidennesnetakip\yineyenidennesnetakip\obj\Debug\yineyenidennesnetakip.csprojAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2017\Projects\yineyenidennesnetakip\yineyenidennesnetakip\obj\Debug\yineyenidennesnetakip.Form1.resources
+C:\Users\pc\Documents\Visual Studio 2017\Projects\yineyenidennesnetakip\yineyenidennesnetakip\obj\Debug\yineyenidennesnetakip.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2017\Projects\yineyenidennesnetakip\yineyenidennesnetakip\obj\Debug\yineyenidennesnetakip.csproj.GenerateResource.cache
+C:\Users\pc\Documents\Visual Studio 2017\Projects\yineyenidennesnetakip\yineyenidennesnetakip\obj\Debug\yineyenidennesnetakip.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Visual Studio 2017\Projects\yineyenidennesnetakip\yineyenidennesnetakip\obj\Debug\yineyenidennesnetakip.csproj.CopyComplete
+C:\Users\pc\Documents\Visual Studio 2017\Projects\yineyenidennesnetakip\yineyenidennesnetakip\obj\Debug\yineyenidennesnetakip.exe
+C:\Users\pc\Documents\Visual Studio 2017\Projects\yineyenidennesnetakip\yineyenidennesnetakip\obj\Debug\yineyenidennesnetakip.pdb
+C:\Users\pc\Downloads\yineyenidennesnetakip\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\yineyenidennesnetakip.exe.config
+C:\Users\pc\Downloads\yineyenidennesnetakip\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\yineyenidennesnetakip.exe
+C:\Users\pc\Downloads\yineyenidennesnetakip\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\yineyenidennesnetakip.pdb
+C:\Users\pc\Downloads\yineyenidennesnetakip\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\AForge.dll
+C:\Users\pc\Downloads\yineyenidennesnetakip\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\AForge.Imaging.dll
+C:\Users\pc\Downloads\yineyenidennesnetakip\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\pc\Downloads\yineyenidennesnetakip\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\AForge.Video.dll
+C:\Users\pc\Downloads\yineyenidennesnetakip\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\AForge.Math.dll
+C:\Users\pc\Downloads\yineyenidennesnetakip\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\AForge.xml
+C:\Users\pc\Downloads\yineyenidennesnetakip\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\AForge.Imaging.xml
+C:\Users\pc\Downloads\yineyenidennesnetakip\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\AForge.Video.xml
+C:\Users\pc\Downloads\yineyenidennesnetakip\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\pc\Downloads\yineyenidennesnetakip\yineyenidennesnetakip\yineyenidennesnetakip\bin\Debug\AForge.Math.xml
+C:\Users\pc\Downloads\yineyenidennesnetakip\yineyenidennesnetakip\yineyenidennesnetakip\obj\Debug\yineyenidennesnetakip.csprojAssemblyReference.cache
+C:\Users\pc\Downloads\yineyenidennesnetakip\yineyenidennesnetakip\yineyenidennesnetakip\obj\Debug\yineyenidennesnetakip.Form1.resources
+C:\Users\pc\Downloads\yineyenidennesnetakip\yineyenidennesnetakip\yineyenidennesnetakip\obj\Debug\yineyenidennesnetakip.Properties.Resources.resources
+C:\Users\pc\Downloads\yineyenidennesnetakip\yineyenidennesnetakip\yineyenidennesnetakip\obj\Debug\yineyenidennesnetakip.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\yineyenidennesnetakip\yineyenidennesnetakip\yineyenidennesnetakip\obj\Debug\yineyenidennesnetakip.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\yineyenidennesnetakip\yineyenidennesnetakip\yineyenidennesnetakip\obj\Debug\yineyenidennesnetakip.csproj.CopyComplete
+C:\Users\pc\Downloads\yineyenidennesnetakip\yineyenidennesnetakip\yineyenidennesnetakip\obj\Debug\yineyenidennesnetakip.exe
+C:\Users\pc\Downloads\yineyenidennesnetakip\yineyenidennesnetakip\yineyenidennesnetakip\obj\Debug\yineyenidennesnetakip.pdb
